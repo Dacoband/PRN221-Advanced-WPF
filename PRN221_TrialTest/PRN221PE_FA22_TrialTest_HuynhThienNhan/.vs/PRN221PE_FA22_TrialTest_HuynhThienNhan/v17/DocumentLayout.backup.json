@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BFBD10F4-2E5F-4DE1-9EC8-2001BF0A42F4}|CandidateManagement_HuynhThienNhan\\CandidateManagement_HuynhThienNhan.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221_trialtest\\prn221pe_fa22_trialtest_huynhthiennhan\\candidatemanagement_huynhthiennhan\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BFBD10F4-2E5F-4DE1-9EC8-2001BF0A42F4}|CandidateManagement_HuynhThienNhan\\CandidateManagement_HuynhThienNhan.csproj|solutionrelative:candidatemanagement_huynhthiennhan\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{9AD3CF28-9795-4349-971D-62DAEAABA192}|Candidate_DAOs\\Candidate_DAOs.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221_trialtest\\prn221pe_fa22_trialtest_huynhthiennhan\\candidate_daos\\hraccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9AD3CF28-9795-4349-971D-62DAEAABA192}|Candidate_DAOs\\Candidate_DAOs.csproj|solutionrelative:candidate_daos\\hraccountdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFBD10F4-2E5F-4DE1-9EC8-2001BF0A42F4}|CandidateManagement_HuynhThienNhan\\CandidateManagement_HuynhThienNhan.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221_trialtest\\prn221pe_fa22_trialtest_huynhthiennhan\\candidatemanagement_huynhthiennhan\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFBD10F4-2E5F-4DE1-9EC8-2001BF0A42F4}|CandidateManagement_HuynhThienNhan\\CandidateManagement_HuynhThienNhan.csproj|solutionrelative:candidatemanagement_huynhthiennhan\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFBD10F4-2E5F-4DE1-9EC8-2001BF0A42F4}|CandidateManagement_HuynhThienNhan\\CandidateManagement_HuynhThienNhan.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221_trialtest\\prn221pe_fa22_trialtest_huynhthiennhan\\candidatemanagement_huynhthiennhan\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFBD10F4-2E5F-4DE1-9EC8-2001BF0A42F4}|CandidateManagement_HuynhThienNhan\\CandidateManagement_HuynhThienNhan.csproj|solutionrelative:candidatemanagement_huynhthiennhan\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "HRAccountDAO.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_DAOs\\HRAccountDAO.cs",
+              "RelativeDocumentMoniker": "Candidate_DAOs\\HRAccountDAO.cs",
+              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_DAOs\\HRAccountDAO.cs",
+              "RelativeToolTip": "Candidate_DAOs\\HRAccountDAO.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA5wB4AAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-07T09:51:58.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\CandidateManagement_HuynhThienNhan\\MainWindow.xaml",
               "RelativeDocumentMoniker": "CandidateManagement_HuynhThienNhan\\MainWindow.xaml",
@@ -48,7 +65,7 @@
               "RelativeDocumentMoniker": "CandidateManagement_HuynhThienNhan\\MainWindow.xaml.cs",
               "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\CandidateManagement_HuynhThienNhan\\MainWindow.xaml.cs",
               "RelativeToolTip": "CandidateManagement_HuynhThienNhan\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxUAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-07T08:57:45.987Z",
               "EditorCaption": ""

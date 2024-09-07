@@ -751,32 +751,6 @@
         "runtime": {
           "bin/placeholder/Candidate_BusinessObjects.dll": {}
         }
-      },
-      "Candidate_DAOs/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Candidate_BusinessObjects": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Candidate_DAOs.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Candidate_DAOs.dll": {}
-        }
-      },
-      "Candidate_Repositories/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "Candidate_DAOs": "1.0.0"
-        },
-        "compile": {
-          "bin/placeholder/Candidate_Repositories.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/Candidate_Repositories.dll": {}
-        }
       }
     }
   },
@@ -1947,21 +1921,11 @@
       "type": "project",
       "path": "../Candidate_BusinessObjects/Candidate_BusinessObjects.csproj",
       "msbuildProject": "../Candidate_BusinessObjects/Candidate_BusinessObjects.csproj"
-    },
-    "Candidate_DAOs/1.0.0": {
-      "type": "project",
-      "path": "../Candidate_DAOs/Candidate_DAOs.csproj",
-      "msbuildProject": "../Candidate_DAOs/Candidate_DAOs.csproj"
-    },
-    "Candidate_Repositories/1.0.0": {
-      "type": "project",
-      "path": "../Candidate_Repositories/Candidate_Repositories.csproj",
-      "msbuildProject": "../Candidate_Repositories/Candidate_Repositories.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
-      "Candidate_Repositories >= 1.0.0"
+      "Candidate_BusinessObjects >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1971,11 +1935,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Services\\Candidate_Services.csproj",
-      "projectName": "Candidate_Services",
-      "projectPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Services\\Candidate_Services.csproj",
+      "projectUniqueName": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_DAOs\\Candidate_DAOs.csproj",
+      "projectName": "Candidate_DAOs",
+      "projectPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_DAOs\\Candidate_DAOs.csproj",
       "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
-      "outputPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Services\\obj\\",
+      "outputPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_DAOs\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1997,8 +1961,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Repositories\\Candidate_Repositories.csproj": {
-              "projectPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Repositories\\Candidate_Repositories.csproj"
+            "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj": {
+              "projectPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj"
             }
           }
         }

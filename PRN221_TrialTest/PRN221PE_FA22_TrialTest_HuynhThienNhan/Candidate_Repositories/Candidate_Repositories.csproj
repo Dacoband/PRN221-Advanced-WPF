@@ -6,4 +6,8 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Candidate_DAOs\Candidate_DAOs.csproj" />
+  </ItemGroup>
+
 </Project>

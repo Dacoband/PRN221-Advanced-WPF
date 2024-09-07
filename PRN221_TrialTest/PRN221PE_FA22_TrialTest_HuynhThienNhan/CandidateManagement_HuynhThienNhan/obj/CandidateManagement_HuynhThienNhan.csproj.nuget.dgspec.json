@@ -32,7 +32,11 @@
         "frameworks": {
           "net6.0-windows7.0": {
             "targetAlias": "net6.0-windows",
-            "projectReferences": {}
+            "projectReferences": {
+              "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Services\\Candidate_Services.csproj": {
+                "projectPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Services\\Candidate_Services.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -66,6 +70,300 @@
             },
             "Microsoft.WindowsDesktop.App.WPF": {
               "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
+        "projectName": "Candidate_BusinessObjects",
+        "projectPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj",
+        "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_BusinessObjects\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[6.0.33, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.33, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_DAOs\\Candidate_DAOs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_DAOs\\Candidate_DAOs.csproj",
+        "projectName": "Candidate_DAOs",
+        "projectPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_DAOs\\Candidate_DAOs.csproj",
+        "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_DAOs\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj": {
+                "projectPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_BusinessObjects\\Candidate_BusinessObjects.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Repositories\\Candidate_Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Repositories\\Candidate_Repositories.csproj",
+        "projectName": "Candidate_Repositories",
+        "projectPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Repositories\\Candidate_Repositories.csproj",
+        "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Repositories\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_DAOs\\Candidate_DAOs.csproj": {
+                "projectPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_DAOs\\Candidate_DAOs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Services\\Candidate_Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Services\\Candidate_Services.csproj",
+        "projectName": "Candidate_Services",
+        "projectPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Services\\Candidate_Services.csproj",
+        "packagesPath": "C:\\Users\\bolic\\.nuget\\packages\\",
+        "outputPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\bolic\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Repositories\\Candidate_Repositories.csproj": {
+                "projectPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Repositories\\Candidate_Repositories.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
             }
           },
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.401\\RuntimeIdentifierGraph.json"
