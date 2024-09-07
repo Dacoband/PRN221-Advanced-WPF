@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "CandidateManagement_HuynhThienNhan/1.0.0": {
+        "runtime": {
+          "CandidateManagement_HuynhThienNhan.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CandidateManagement_HuynhThienNhan/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

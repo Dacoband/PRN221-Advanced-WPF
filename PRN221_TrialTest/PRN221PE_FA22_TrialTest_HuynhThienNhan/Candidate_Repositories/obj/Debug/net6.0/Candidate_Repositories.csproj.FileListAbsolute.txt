@@ -1,0 +1,12 @@
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_Repositories\bin\Debug\net6.0\Candidate_Repositories.deps.json
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_Repositories\bin\Debug\net6.0\Candidate_Repositories.dll
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_Repositories\bin\Debug\net6.0\Candidate_Repositories.pdb
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_Repositories\obj\Debug\net6.0\Candidate_Repositories.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_Repositories\obj\Debug\net6.0\Candidate_Repositories.AssemblyInfoInputs.cache
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_Repositories\obj\Debug\net6.0\Candidate_Repositories.AssemblyInfo.cs
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_Repositories\obj\Debug\net6.0\Candidate_Repositories.csproj.CoreCompileInputs.cache
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_Repositories\obj\Debug\net6.0\Candidate_Repositories.sourcelink.json
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_Repositories\obj\Debug\net6.0\Candidate_Repositories.dll
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_Repositories\obj\Debug\net6.0\refint\Candidate_Repositories.dll
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_Repositories\obj\Debug\net6.0\Candidate_Repositories.pdb
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_Repositories\obj\Debug\net6.0\ref\Candidate_Repositories.dll
