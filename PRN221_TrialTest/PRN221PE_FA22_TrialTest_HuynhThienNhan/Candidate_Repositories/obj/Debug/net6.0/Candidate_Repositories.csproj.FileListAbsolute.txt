@@ -10,3 +10,9 @@ D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialT
 D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_Repositories\obj\Debug\net6.0\refint\Candidate_Repositories.dll
 D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_Repositories\obj\Debug\net6.0\Candidate_Repositories.pdb
 D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_Repositories\obj\Debug\net6.0\ref\Candidate_Repositories.dll
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_Repositories\bin\Debug\net6.0\Candidate_BusinessObjects.dll
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_Repositories\bin\Debug\net6.0\Candidate_DAOs.dll
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_Repositories\bin\Debug\net6.0\Candidate_DAOs.pdb
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_Repositories\bin\Debug\net6.0\Candidate_BusinessObjects.pdb
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_Repositories\obj\Debug\net6.0\Candidate_Repositories.csproj.AssemblyReference.cache
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_Repositories\obj\Debug\net6.0\Candidat.0571E3D3.Up2Date

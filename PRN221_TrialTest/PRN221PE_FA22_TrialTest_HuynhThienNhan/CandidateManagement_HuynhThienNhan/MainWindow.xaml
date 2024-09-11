@@ -5,8 +5,32 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:CandidateManagement_HuynhThienNhan"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800" WindowStartupLocation="CenterScreen">
     <Grid>
-    
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="733*"/>
+            <ColumnDefinition/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <Grid.Background>
+            <ImageBrush/>
+        </Grid.Background>
+        <Label x:Name="lblLogin" Content="Login Admin" HorizontalAlignment="Left" Margin="340,37,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI Variable Display Semibold" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Height="44" Width="140">
+            <Label.Foreground>
+                <RadialGradientBrush>
+                    <GradientStop Color="Black"/>
+                    <GradientStop Color="#FF8A6666" Offset="0.283"/>
+                    <GradientStop Color="#FE030202"/>
+                </RadialGradientBrush>
+            </Label.Foreground>
+        </Label>
+        <Rectangle x:Name="rtGroup" HorizontalAlignment="Left" Height="274" Margin="173,92,0,0" Stroke="Black" VerticalAlignment="Top" Width="491"/>
+        <Label x:Name="lblEmail" Content="Email :" HorizontalAlignment="Left" Margin="249,149,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.473,-0.084" FontSize="14" FontFamily="Segoe UI Semibold" Height="35" Width="59"/>
+        <TextBox x:Name="txtEmail" HorizontalAlignment="Left" Margin="327,147,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="237" Height="36" FontSize="14" TextAlignment="Justify"/>
+        <Label x:Name="lblPassword" Content="Password :" HorizontalAlignment="Left" Margin="236,212,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.473,-0.084" FontSize="14" FontFamily="Segoe UI Semibold" Height="34" Width="88"/>
+        <PasswordBox x:Name="txtPassword" HorizontalAlignment="Left" Margin="327,212,0,0" VerticalAlignment="Top" Width="239" Height="35"/>
+        <Button x:Name="btnLogin" Content="Login" HorizontalAlignment="Left" Margin="460,285,0,0" VerticalAlignment="Top" Width="106" Height="48" BorderBrush="#FFBBB0B0" Foreground="#FF442929" FontFamily="Segoe UI Variable Display Semibold" FontSize="14" Background="#FFB6D2B4" Click="btnLogin_Click"/>
+        <Button x:Name="btnCancel" Content="Cancel" HorizontalAlignment="Left" Margin="297,285,0,0" VerticalAlignment="Top" Width="107" Height="48" BorderBrush="#FFBBB0B0" Foreground="#FFA94040" FontFamily="Segoe UI Variable Display Semibold" FontSize="14" Background="#FFE2D2D2" Click="btnCancel_Click"/>
+
     </Grid>
 </Window>

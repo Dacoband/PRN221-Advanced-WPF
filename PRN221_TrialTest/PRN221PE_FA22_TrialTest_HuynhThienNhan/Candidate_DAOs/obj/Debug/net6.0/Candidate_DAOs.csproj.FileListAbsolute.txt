@@ -1,0 +1,16 @@
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_DAOs\bin\Debug\net6.0\Candidate_DAOs.deps.json
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_DAOs\bin\Debug\net6.0\Candidate_DAOs.dll
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_DAOs\bin\Debug\net6.0\Candidate_DAOs.pdb
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_DAOs\bin\Debug\net6.0\Candidate_BusinessObjects.dll
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_DAOs\bin\Debug\net6.0\Candidate_BusinessObjects.pdb
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.csproj.AssemblyReference.cache
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.AssemblyInfoInputs.cache
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.AssemblyInfo.cs
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.csproj.CoreCompileInputs.cache
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.sourcelink.json
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_DAOs\obj\Debug\net6.0\Candidat.D06B1452.Up2Date
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.dll
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_DAOs\obj\Debug\net6.0\refint\Candidate_DAOs.dll
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_DAOs\obj\Debug\net6.0\Candidate_DAOs.pdb
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\Candidate_DAOs\obj\Debug\net6.0\ref\Candidate_DAOs.dll
