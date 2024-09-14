@@ -59,3 +59,5 @@ D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialT
 D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\CandidateManagement_HuynhThienNhan\bin\Debug\net6.0-windows\Candidate_Repositories.pdb
 D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\CandidateManagement_HuynhThienNhan\obj\Debug\net6.0-windows\CandidateManagement_HuynhThienNhan.csproj.AssemblyReference.cache
 D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\CandidateManagement_HuynhThienNhan\obj\Debug\net6.0-windows\Candidat.F774F70A.Up2Date
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\CandidateManagement_HuynhThienNhan\obj\Debug\net6.0-windows\JobPosting.g.cs
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\CandidateManagement_HuynhThienNhan\obj\Debug\net6.0-windows\JobPosting.baml

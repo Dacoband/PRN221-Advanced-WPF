@@ -57,6 +57,11 @@ namespace CandidateManagement_HuynhThienNhan
             }
 
             this.Hide();
+            JobPosting jobPostingWindow = new JobPosting();
+            jobPostingWindow.ShowDialog();
+
+            
+            this.Close();
         }
     }
 }
