@@ -57,10 +57,10 @@ namespace CandidateManagement_HuynhThienNhan
             }
 
             this.Hide();
-            JobPosting jobPostingWindow = new JobPosting();
+            JobPostingWindow jobPostingWindow = new JobPostingWindow();
             jobPostingWindow.ShowDialog();
 
-            
+
             this.Close();
         }
     }
