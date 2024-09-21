@@ -10,6 +10,7 @@ namespace Candidate_Repositories
 {
     public class JobPostingRepository : IJobPostingRepository
     {
+        private readonly CandidateManagementContext _context = new CandidateManagementContext();
         public bool AddJobPosting(JobPosting jobPosting) => JobPostingDao.Instance.AddJobPosting(jobPosting);
 
 
@@ -22,7 +23,11 @@ namespace Candidate_Repositories
         public bool DeleteJobPosting(string postingId) =>
             JobPostingDao.Instance.DeleteJobPosting(postingId);
 
-
+        public List<JobPosting> GetAllJobPostings()
+        {
+            
+            return _context.JobPostings.ToList();
+        }
     }
 
 

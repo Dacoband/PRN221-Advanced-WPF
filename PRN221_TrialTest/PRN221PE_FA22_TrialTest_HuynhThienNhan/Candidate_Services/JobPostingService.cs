@@ -38,6 +38,10 @@ namespace Candidate_Services
         {
             return jobPostingRepository.DeleteJobPosting(postingId);
         }
+         public List<JobPosting> GetJobPostings()
+    {
+        return jobPostingRepository.GetAllJobPostings(); // Assuming you have a repository method for this
+    }
     }
 
 }

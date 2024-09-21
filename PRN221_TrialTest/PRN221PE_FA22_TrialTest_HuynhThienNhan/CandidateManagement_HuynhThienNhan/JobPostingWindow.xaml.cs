@@ -29,73 +29,17 @@ namespace CandidateManagement_HuynhThienNhan
             jobPostingService = new JobPostingService();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            JobPosting newJob = new JobPosting
-            {
-                PostingId = txtPostingID.Text,
-                JobPostingTitle = txtTitle.Text,
-                Description = txtDescription.Text,
-                PostedDate = dpPostDate.SelectedDate.HasValue ? dpPostDate.SelectedDate.Value : (DateTime?)null
-
-            };
-
-            bool isSuccess = jobPostingService.AddJobPosting(newJob);
-
-            if (isSuccess)
-            {
-                MessageBox.Show("Job posting added successfully!", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
-            }
-            else
-            {
-                MessageBox.Show("Failed to add job posting!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
-            }
-
-        }
-
-        private void Button_Click_1(object sender, RoutedEventArgs e)
-        {
-            string postingId = txtPostingID.Text;
-
-            if (!string.IsNullOrEmpty(postingId))
-            {
-                // Tạo đối tượng JobPostingRepository (để tương tác với cơ sở dữ liệu)
-                JobPostingRepository repository = new JobPostingRepository();
-
-                // Lấy bài đăng từ cơ sở dữ liệu
-                JobPosting jobPosting = repository.GetJobPosting(postingId);
-
-                if (jobPosting != null)
-                {
-                    // Hiển thị thông tin bài đăng trên các điều khiển
-                    txtTitle.Text = jobPosting.JobPostingTitle;
-                    dpPostDate.SelectedDate = jobPosting.PostedDate;
-                    txtDescription.Text = jobPosting.Description;
-                }
-                else
-                {
-                    // Nếu không tìm thấy bài đăng, hiển thị thông báo
-                    MessageBox.Show("Job posting not found!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
-                }
-            }
-            else
-            {
-                MessageBox.Show("Please enter a Posting ID.", "Warning", MessageBoxButton.OK, MessageBoxImage.Warning);
-            }
-
-        }
-
-        private void Button_Click_2(object sender, RoutedEventArgs e)
+        private void btnUpdateJob_Click(object sender, RoutedEventArgs e)
         {
 
             string postingId = txtPostingID.Text;
 
             if (!string.IsNullOrEmpty(postingId))
             {
-                // Tạo đối tượng JobPostingRepository (để tương tác với cơ sở dữ liệu)
+                
                 JobPostingRepository repository = new JobPostingRepository();
 
-                // Lấy bài đăng từ cơ sở dữ liệu
+                
                 JobPosting jobPosting = repository.GetJobPosting(postingId);
 
                 if (jobPosting != null)
@@ -105,19 +49,16 @@ namespace CandidateManagement_HuynhThienNhan
                         jobPosting.JobPostingTitle = txtTitle.Text;
                     }
 
-                    // Nếu DatePicker dpPostDate có giá trị, cập nhật ngày mới, nếu không có giá trị thì giữ nguyên
                     if (dpPostDate.SelectedDate.HasValue)
                     {
                         jobPosting.PostedDate = dpPostDate.SelectedDate.Value;
                     }
 
-                    // Nếu textbox txtDescription không rỗng, cập nhật Description mới, nếu rỗng thì giữ nguyên
                     if (!string.IsNullOrEmpty(txtDescription.Text))
                     {
                         jobPosting.Description = txtDescription.Text;
                     }
 
-                    // Gọi phương thức update trong repository để lưu bài đăng đã cập nhật
                     bool result = repository.UpdateJobPosting(jobPosting);
 
                     if (result)
@@ -140,7 +81,7 @@ namespace CandidateManagement_HuynhThienNhan
             }
         }
 
-        private void Button_Click_3(object sender, RoutedEventArgs e)
+        private void btnDeleteJob_Click(object sender, RoutedEventArgs e)
         {
             // Lấy ID từ TextBox
             string postingId = txtPostingID.Text;
@@ -180,6 +121,62 @@ namespace CandidateManagement_HuynhThienNhan
                 MessageBox.Show("Please enter a Posting ID.", "Warning", MessageBoxButton.OK, MessageBoxImage.Warning);
             }
         }
+
+        private void btnCreateJob_Click_1(object sender, RoutedEventArgs e)
+        {
+
+            JobPosting newJob = new JobPosting
+            {
+                PostingId = txtPostingID.Text,
+                JobPostingTitle = txtTitle.Text,
+                Description = txtDescription.Text,
+                PostedDate = dpPostDate.SelectedDate.HasValue ? dpPostDate.SelectedDate.Value : (DateTime?)null
+
+            };
+
+            bool isSuccess = jobPostingService.AddJobPosting(newJob);
+
+            if (isSuccess)
+            {
+                MessageBox.Show("Job posting added successfully!", "Success", MessageBoxButton.OK, MessageBoxImage.Information);
+            }
+            else
+            {
+                MessageBox.Show("Failed to add job posting!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+            }
+        }
+
+        private void BtnReadJob_Click(object sender, RoutedEventArgs e)
+        {
+            string postingId = txtPostingID.Text;
+
+            if (!string.IsNullOrEmpty(postingId))
+            {
+                // Tạo đối tượng JobPostingRepository (để tương tác với cơ sở dữ liệu)
+                JobPostingRepository repository = new JobPostingRepository();
+
+                // Lấy bài đăng từ cơ sở dữ liệu
+                JobPosting jobPosting = repository.GetJobPosting(postingId);
+
+                if (jobPosting != null)
+                {
+                    // Hiển thị thông tin bài đăng trên các điều khiển
+                    txtTitle.Text = jobPosting.JobPostingTitle;
+                    dpPostDate.SelectedDate = jobPosting.PostedDate;
+                    txtDescription.Text = jobPosting.Description;
+                }
+                else
+                {
+                    // Nếu không tìm thấy bài đăng, hiển thị thông báo
+                    MessageBox.Show("Job posting not found!", "Error", MessageBoxButton.OK, MessageBoxImage.Error);
+                }
+            }
+            else
+            {
+                MessageBox.Show("Please enter a Posting ID.", "Warning", MessageBoxButton.OK, MessageBoxImage.Warning);
+            }
+        }
+
 
     }
 }

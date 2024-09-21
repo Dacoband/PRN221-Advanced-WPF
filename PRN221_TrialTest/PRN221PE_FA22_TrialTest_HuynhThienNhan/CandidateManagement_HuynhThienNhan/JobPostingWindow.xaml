@@ -8,7 +8,7 @@
         Title="JobPosting" Height="450" Width="800">
     <Grid Margin="10">
         <!-- Tiêu đề chính -->
-        <TextBlock Text="JOB POSTING SCREEN" FontSize="24" FontWeight="Bold" 
+        <TextBlock x:Name="btnReadJob" Text="JOB POSTING SCREEN" FontSize="24" FontWeight="Bold" 
                    HorizontalAlignment="Center" Foreground="#4682B4" />
 
         <!-- Thông tin form -->
@@ -39,10 +39,10 @@
 
             <!-- CRUD Buttons -->
             <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="20">
-                <Button Content="Create" Width="75" Height="30" Margin="5" Background="#32CD32" Foreground="White" />
-                <Button Content="Read" Width="75" Height="30" Margin="5" Background="#4682B4" Foreground="White" />
-                <Button Content="Update" Width="75" Height="30" Margin="5" Background="#FFD700" Foreground="Black" />
-                <Button Content="Delete" Width="75" Height="30" Margin="5" Background="#FF4500" Foreground="White" />
+                <Button x:Name="btnCreateJob" Content="Create" Width="75" Height="30" Margin="5" Background="#32CD32" Foreground="White" Click="btnCreateJob_Click_1"  />
+                <Button x:Name="btnReadJob1" Content="Read" Width="75" Height="30" Margin="5" Background="#4682B4" Foreground="White" Click="BtnReadJob_Click" />
+                <Button x:Name="btnUpdateJob" Content="Update" Width="75" Height="30" Margin="5" Background="#FFD700" Foreground="Black" Click="btnUpdateJob_Click"  />
+                <Button x:Name="btnDeleteJob" Content="Delete" Width="75" Height="30" Margin="5" Background="#FF4500" Foreground="White" Click="btnDeleteJob_Click" />
             </StackPanel>
         </StackPanel>
     </Grid>

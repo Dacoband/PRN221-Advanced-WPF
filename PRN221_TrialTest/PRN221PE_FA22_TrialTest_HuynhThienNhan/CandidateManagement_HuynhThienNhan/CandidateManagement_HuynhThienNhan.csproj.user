@@ -7,11 +7,17 @@
     </ApplicationDefinition>
   </ItemGroup>
   <ItemGroup>
+    <Compile Update="CandidateProfileMange.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
     <Compile Update="JobPostingWindow.xaml.cs">
       <SubType>Code</SubType>
     </Compile>
   </ItemGroup>
   <ItemGroup>
+    <Page Update="CandidateProfileMange.xaml">
+      <SubType>Designer</SubType>
+    </Page>
     <Page Update="JobPostingWindow.xaml">
       <SubType>Designer</SubType>
     </Page>

@@ -62,3 +62,4 @@ D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialT
 D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\CandidateManagement_HuynhThienNhan\obj\Debug\net6.0-windows\JobPosting.g.cs
 D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\CandidateManagement_HuynhThienNhan\obj\Debug\net6.0-windows\JobPosting.baml
 D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\CandidateManagement_HuynhThienNhan\obj\Debug\net6.0-windows\JobPostingWindow.g.cs
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221_TrialTest\PRN221PE_FA22_TrialTest_HuynhThienNhan\CandidateManagement_HuynhThienNhan\obj\Debug\net6.0-windows\CandidateProfileMange.g.cs
