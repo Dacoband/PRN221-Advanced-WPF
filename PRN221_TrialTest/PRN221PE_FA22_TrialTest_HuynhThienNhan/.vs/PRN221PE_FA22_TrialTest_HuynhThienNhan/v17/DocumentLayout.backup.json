@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{BFBD10F4-2E5F-4DE1-9EC8-2001BF0A42F4}|CandidateManagement_HuynhThienNhan\\CandidateManagement_HuynhThienNhan.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221_trialtest\\prn221pe_fa22_trialtest_huynhthiennhan\\candidatemanagement_huynhthiennhan\\candidateprofilemange.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BFBD10F4-2E5F-4DE1-9EC8-2001BF0A42F4}|CandidateManagement_HuynhThienNhan\\CandidateManagement_HuynhThienNhan.csproj|solutionrelative:candidatemanagement_huynhthiennhan\\candidateprofilemange.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{BFBD10F4-2E5F-4DE1-9EC8-2001BF0A42F4}|CandidateManagement_HuynhThienNhan\\CandidateManagement_HuynhThienNhan.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221_trialtest\\prn221pe_fa22_trialtest_huynhthiennhan\\candidatemanagement_huynhthiennhan\\candidateprofilemange.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BFBD10F4-2E5F-4DE1-9EC8-2001BF0A42F4}|CandidateManagement_HuynhThienNhan\\CandidateManagement_HuynhThienNhan.csproj|solutionrelative:candidatemanagement_huynhthiennhan\\candidateprofilemange.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -29,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{8FF35C91-CC00-4749-8EDE-63FBDA96CB93}|Candidate_Repositories\\Candidate_Repositories.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221_trialtest\\prn221pe_fa22_trialtest_huynhthiennhan\\candidate_repositories\\ijobpostingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8FF35C91-CC00-4749-8EDE-63FBDA96CB93}|Candidate_Repositories\\Candidate_Repositories.csproj|solutionrelative:candidate_repositories\\ijobpostingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BFBD10F4-2E5F-4DE1-9EC8-2001BF0A42F4}|CandidateManagement_HuynhThienNhan\\CandidateManagement_HuynhThienNhan.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221_trialtest\\prn221pe_fa22_trialtest_huynhthiennhan\\candidatemanagement_huynhthiennhan\\candidateprofilemange.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{BFBD10F4-2E5F-4DE1-9EC8-2001BF0A42F4}|CandidateManagement_HuynhThienNhan\\CandidateManagement_HuynhThienNhan.csproj|solutionrelative:candidatemanagement_huynhthiennhan\\candidateprofilemange.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BFED723E-4B71-48B6-AFA4-A2CD6CCD4B74}|Candidate_Services\\Candidate_Services.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221_trialtest\\prn221pe_fa22_trialtest_huynhthiennhan\\candidate_services\\candidateprofileservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -78,7 +78,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 18,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -90,7 +90,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "JobPostingWindow.xaml.cs",
               "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\CandidateManagement_HuynhThienNhan\\JobPostingWindow.xaml.cs",
               "RelativeDocumentMoniker": "CandidateManagement_HuynhThienNhan\\JobPostingWindow.xaml.cs",
@@ -103,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "JobPostingRepository.cs",
               "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Repositories\\JobPostingRepository.cs",
               "RelativeDocumentMoniker": "Candidate_Repositories\\JobPostingRepository.cs",
@@ -116,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "IJobPostingRepository.cs",
               "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Repositories\\IJobPostingRepository.cs",
               "RelativeDocumentMoniker": "Candidate_Repositories\\IJobPostingRepository.cs",
@@ -129,7 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "IJobPostingService.cs",
               "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Services\\IJobPostingService.cs",
               "RelativeDocumentMoniker": "Candidate_Services\\IJobPostingService.cs",
@@ -142,7 +142,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "JobPostingService.cs",
               "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Services\\JobPostingService.cs",
               "RelativeDocumentMoniker": "Candidate_Services\\JobPostingService.cs",
@@ -155,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 0,
               "Title": "CandidateProfileMange.xaml",
               "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\CandidateManagement_HuynhThienNhan\\CandidateProfileMange.xaml",
               "RelativeDocumentMoniker": "CandidateManagement_HuynhThienNhan\\CandidateProfileMange.xaml",
@@ -180,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "JobPostingWindow.xaml",
               "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\CandidateManagement_HuynhThienNhan\\JobPostingWindow.xaml",
               "RelativeDocumentMoniker": "CandidateManagement_HuynhThienNhan\\JobPostingWindow.xaml",
@@ -234,8 +234,8 @@
               "Title": "ICandidateProfileRepo.cs",
               "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Repositories\\ICandidateProfileRepo.cs",
               "RelativeDocumentMoniker": "Candidate_Repositories\\ICandidateProfileRepo.cs",
-              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Repositories\\ICandidateProfileRepo.cs*",
-              "RelativeToolTip": "Candidate_Repositories\\ICandidateProfileRepo.cs*",
+              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\Candidate_Repositories\\ICandidateProfileRepo.cs",
+              "RelativeToolTip": "Candidate_Repositories\\ICandidateProfileRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAABOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T09:41:04.893Z",
@@ -293,13 +293,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CandidateProfileMange.xaml.cs",
               "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\CandidateManagement_HuynhThienNhan\\CandidateProfileMange.xaml.cs",
               "RelativeDocumentMoniker": "CandidateManagement_HuynhThienNhan\\CandidateProfileMange.xaml.cs",
               "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\CandidateManagement_HuynhThienNhan\\CandidateProfileMange.xaml.cs",
               "RelativeToolTip": "CandidateManagement_HuynhThienNhan\\CandidateProfileMange.xaml.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAUwCAAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAADUAAAAAAAAAAAAywCAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-21T09:18:52.831Z",
               "EditorCaption": ""
