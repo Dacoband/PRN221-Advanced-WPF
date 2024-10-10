@@ -1,0 +1,23 @@
+﻿@page
+@model CandidateRazorWeb.Pages.LoginModel
+@{
+}
+<body>
+    <form method="post">
+        <h1>Login form</h1>
+        <div>
+            <div class="col-2">Email</div>
+            <div class="col-10"><input type="text" name="txtEmail"/></div>
+        </div>
+        <div>
+            <div class="col-2">Password</div>
+            <div class="col-10"><input type="password" name="txtPassword" /></div>
+        </div>
+        <div>
+            <div class="col-6" style="margin-top:10px">
+                <input type="submit" class="btn btn-primary" name="btnLogin" value="Login"/>
+                <input type="reset" class="btn btn-primary" name="btnReset" value="Reset"/>
+            </div>
+        </div>
+    </form>
+</body>

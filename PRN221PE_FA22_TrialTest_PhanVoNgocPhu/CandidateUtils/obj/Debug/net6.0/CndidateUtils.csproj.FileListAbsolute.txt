@@ -1,0 +1,11 @@
+Z:\SPRING2024\PRN221PE_FA22_TrialTest_PhamHoangKhiem\CndidateUtils\bin\Debug\net6.0\CndidateUtils.deps.json
+Z:\SPRING2024\PRN221PE_FA22_TrialTest_PhamHoangKhiem\CndidateUtils\bin\Debug\net6.0\CndidateUtils.dll
+Z:\SPRING2024\PRN221PE_FA22_TrialTest_PhamHoangKhiem\CndidateUtils\bin\Debug\net6.0\CndidateUtils.pdb
+Z:\SPRING2024\PRN221PE_FA22_TrialTest_PhamHoangKhiem\CndidateUtils\obj\Debug\net6.0\CndidateUtils.GeneratedMSBuildEditorConfig.editorconfig
+Z:\SPRING2024\PRN221PE_FA22_TrialTest_PhamHoangKhiem\CndidateUtils\obj\Debug\net6.0\CndidateUtils.AssemblyInfoInputs.cache
+Z:\SPRING2024\PRN221PE_FA22_TrialTest_PhamHoangKhiem\CndidateUtils\obj\Debug\net6.0\CndidateUtils.AssemblyInfo.cs
+Z:\SPRING2024\PRN221PE_FA22_TrialTest_PhamHoangKhiem\CndidateUtils\obj\Debug\net6.0\CndidateUtils.csproj.CoreCompileInputs.cache
+Z:\SPRING2024\PRN221PE_FA22_TrialTest_PhamHoangKhiem\CndidateUtils\obj\Debug\net6.0\CndidateUtils.dll
+Z:\SPRING2024\PRN221PE_FA22_TrialTest_PhamHoangKhiem\CndidateUtils\obj\Debug\net6.0\refint\CndidateUtils.dll
+Z:\SPRING2024\PRN221PE_FA22_TrialTest_PhamHoangKhiem\CndidateUtils\obj\Debug\net6.0\CndidateUtils.pdb
+Z:\SPRING2024\PRN221PE_FA22_TrialTest_PhamHoangKhiem\CndidateUtils\obj\Debug\net6.0\ref\CndidateUtils.dll
