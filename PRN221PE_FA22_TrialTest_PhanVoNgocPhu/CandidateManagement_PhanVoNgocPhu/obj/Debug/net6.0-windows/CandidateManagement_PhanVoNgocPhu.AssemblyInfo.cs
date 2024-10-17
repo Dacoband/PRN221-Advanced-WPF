@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CandidateManagement_PhanVoNgocPhu")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e876fdb98d0a2fdacf8eba03c9154299871fd23c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+eeacce9d16bd5591d0d56ba09edbb0ff5021885f")]
 [assembly: System.Reflection.AssemblyProductAttribute("CandidateManagement_PhanVoNgocPhu")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CandidateManagement_PhanVoNgocPhu")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
