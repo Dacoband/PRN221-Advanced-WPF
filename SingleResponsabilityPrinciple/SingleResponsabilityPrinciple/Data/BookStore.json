@@ -1,0 +1,47 @@
+{
+  {
+    "Title": "The Shawshank Redemption",
+    "Author": "Stephen King",
+    "Price": 12.99
+  },
+  {
+    "Title": "The Godfather",
+    "Author": "Mario Puzo",
+    "Price": 15.99
+  },
+  {
+    "Title": "The Lord of the Rings",
+    "Author": "J.R.R. Tolkien",
+    "Price": 22.99
+  },
+  {
+    "Title": "The Shining",
+    "Author": "Stephen King",
+    "Price": 12.99
+  },
+  {
+    "Title": "The Da Vinci Code",
+    "Author": "Dan Brown",
+    "Price": 14.99
+  },
+  {
+    "Title": "The Catcher in the Rye",
+    "Author": "J.D. Salinger",
+    "Price": 9.99
+  },
+  {
+    "Title": "The Great Gatsby",
+    "Author": "F. Scott Fitzgerald",
+    "Price": 10.99
+  },
+  {
+    "Title": "The Hobbit",
+    "Author": "J.R.R. Tolkien",
+    "Price": 14.99
+  },
+  {
+    "Title": "The Hunger Games",
+    "Author": "Suzanne Collins",
+    "Price": 11.99
+  }
+}
