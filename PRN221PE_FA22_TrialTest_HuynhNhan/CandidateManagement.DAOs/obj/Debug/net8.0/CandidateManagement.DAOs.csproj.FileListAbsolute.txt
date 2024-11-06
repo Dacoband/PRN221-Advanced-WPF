@@ -1,0 +1,16 @@
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221PE_FA22_TrialTest_HuynhNhan\CandidateManagement.DAOs\bin\Debug\net8.0\CandidateManagement.DAOs.deps.json
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221PE_FA22_TrialTest_HuynhNhan\CandidateManagement.DAOs\bin\Debug\net8.0\CandidateManagement.DAOs.dll
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221PE_FA22_TrialTest_HuynhNhan\CandidateManagement.DAOs\bin\Debug\net8.0\CandidateManagement.DAOs.pdb
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221PE_FA22_TrialTest_HuynhNhan\CandidateManagement.DAOs\bin\Debug\net8.0\CandidateManagement_BussinessObject.dll
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221PE_FA22_TrialTest_HuynhNhan\CandidateManagement.DAOs\bin\Debug\net8.0\CandidateManagement_BussinessObject.pdb
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221PE_FA22_TrialTest_HuynhNhan\CandidateManagement.DAOs\obj\Debug\net8.0\CandidateManagement.DAOs.csproj.AssemblyReference.cache
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221PE_FA22_TrialTest_HuynhNhan\CandidateManagement.DAOs\obj\Debug\net8.0\CandidateManagement.DAOs.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221PE_FA22_TrialTest_HuynhNhan\CandidateManagement.DAOs\obj\Debug\net8.0\CandidateManagement.DAOs.AssemblyInfoInputs.cache
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221PE_FA22_TrialTest_HuynhNhan\CandidateManagement.DAOs\obj\Debug\net8.0\CandidateManagement.DAOs.AssemblyInfo.cs
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221PE_FA22_TrialTest_HuynhNhan\CandidateManagement.DAOs\obj\Debug\net8.0\CandidateManagement.DAOs.csproj.CoreCompileInputs.cache
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221PE_FA22_TrialTest_HuynhNhan\CandidateManagement.DAOs\obj\Debug\net8.0\CandidateManagement.DAOs.sourcelink.json
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221PE_FA22_TrialTest_HuynhNhan\CandidateManagement.DAOs\obj\Debug\net8.0\Candidat.6D62D478.Up2Date
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221PE_FA22_TrialTest_HuynhNhan\CandidateManagement.DAOs\obj\Debug\net8.0\CandidateManagement.DAOs.dll
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221PE_FA22_TrialTest_HuynhNhan\CandidateManagement.DAOs\obj\Debug\net8.0\refint\CandidateManagement.DAOs.dll
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221PE_FA22_TrialTest_HuynhNhan\CandidateManagement.DAOs\obj\Debug\net8.0\CandidateManagement.DAOs.pdb
+D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221PE_FA22_TrialTest_HuynhNhan\CandidateManagement.DAOs\obj\Debug\net8.0\ref\CandidateManagement.DAOs.dll

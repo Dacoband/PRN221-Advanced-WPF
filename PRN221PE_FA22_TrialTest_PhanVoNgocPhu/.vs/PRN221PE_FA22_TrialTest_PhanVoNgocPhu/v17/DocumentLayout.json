@@ -3,16 +3,20 @@
   "WorkspaceRootPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_PhanVoNgocPhu\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{22CCDA97-AA22-4671-84D8-00B4A96921A3}|CandidateRazorWeb\\CandidateRazorWeb.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_phanvongocphu\\candidaterazorweb\\pages\\jobpostingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{22CCDA97-AA22-4671-84D8-00B4A96921A3}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\jobpostingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9EF166E0-0CDB-4714-A6B2-E4E512E5E982}|Candidate_Daos\\Candidate_Daos.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_phanvongocphu\\candidate_daos\\jobpostingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9EF166E0-0CDB-4714-A6B2-E4E512E5E982}|Candidate_Daos\\Candidate_Daos.csproj|solutionrelative:candidate_daos\\jobpostingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{22CCDA97-AA22-4671-84D8-00B4A96921A3}|CandidateRazorWeb\\CandidateRazorWeb.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_phanvongocphu\\candidaterazorweb\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{22CCDA97-AA22-4671-84D8-00B4A96921A3}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\login.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{22CCDA97-AA22-4671-84D8-00B4A96921A3}|CandidateRazorWeb\\CandidateRazorWeb.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_phanvongocphu\\candidaterazorweb\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{22CCDA97-AA22-4671-84D8-00B4A96921A3}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{22CCDA97-AA22-4671-84D8-00B4A96921A3}|CandidateRazorWeb\\CandidateRazorWeb.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_phanvongocphu\\candidaterazorweb\\pages\\jobpostingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{22CCDA97-AA22-4671-84D8-00B4A96921A3}|CandidateRazorWeb\\CandidateRazorWeb.csproj|solutionrelative:candidaterazorweb\\pages\\jobpostingpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{84A63857-A0AF-4E08-849D-1787291E9F54}|Candidate_Repositories\\Candidate_Repositories.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_phanvongocphu\\candidate_repositories\\ihraccountrepo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 16,
           "Children": [
             {
               "$type": "Bookmark",
@@ -77,8 +81,29 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
+              "Title": "JobPostingDAO.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_PhanVoNgocPhu\\Candidate_Daos\\JobPostingDAO.cs",
+              "RelativeDocumentMoniker": "Candidate_Daos\\JobPostingDAO.cs",
+              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_PhanVoNgocPhu\\Candidate_Daos\\JobPostingDAO.cs",
+              "RelativeToolTip": "Candidate_Daos\\JobPostingDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:52:22.83Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Login.cshtml.cs",
               "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_PhanVoNgocPhu\\CandidateRazorWeb\\Pages\\Login.cshtml.cs",
               "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\Login.cshtml.cs",
@@ -91,7 +116,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Login.cshtml",
               "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_PhanVoNgocPhu\\CandidateRazorWeb\\Pages\\Login.cshtml",
               "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\Login.cshtml",
@@ -99,25 +124,24 @@
               "RelativeToolTip": "CandidateRazorWeb\\Pages\\Login.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvxYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-10-16T09:19:57.16Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T09:19:57.16Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Index.cshtml",
               "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_PhanVoNgocPhu\\CandidateRazorWeb\\Pages\\JobPostingPage\\Index.cshtml",
               "RelativeDocumentMoniker": "CandidateRazorWeb\\Pages\\JobPostingPage\\Index.cshtml",
               "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_PhanVoNgocPhu\\CandidateRazorWeb\\Pages\\JobPostingPage\\Index.cshtml",
               "RelativeToolTip": "CandidateRazorWeb\\Pages\\JobPostingPage\\Index.cshtml",
-              "ViewState": "AgIAAAkAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-10-16T09:19:47.922Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "IHRAccountRepo.cs",
               "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_PhanVoNgocPhu\\Candidate_Repositories\\IHRAccountRepo.cs",
               "RelativeDocumentMoniker": "Candidate_Repositories\\IHRAccountRepo.cs",
@@ -125,12 +149,11 @@
               "RelativeToolTip": "Candidate_Repositories\\IHRAccountRepo.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAADwvwwAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:06:03.091Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T09:06:03.091Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "HRAccountDAO.cs",
               "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_PhanVoNgocPhu\\Candidate_Daos\\HRAccountDAO.cs",
               "RelativeDocumentMoniker": "Candidate_Daos\\HRAccountDAO.cs",
@@ -138,8 +161,7 @@
               "RelativeToolTip": "Candidate_Daos\\HRAccountDAO.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAADwvx0AAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-16T09:02:36.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-16T09:02:36.867Z"
             }
           ]
         },

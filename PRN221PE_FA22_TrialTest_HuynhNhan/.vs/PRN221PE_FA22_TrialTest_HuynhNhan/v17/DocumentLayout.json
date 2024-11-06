@@ -1,0 +1,354 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_huynhnhan\\candidatemanagement_huynhnhan\\pages\\candidatepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|solutionrelative:candidatemanagement_huynhnhan\\pages\\candidatepage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_huynhnhan\\candidatemanagement_huynhnhan\\pages\\candidatepage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|solutionrelative:candidatemanagement_huynhnhan\\pages\\candidatepage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_huynhnhan\\candidatemanagement_huynhnhan\\pages\\loginpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|solutionrelative:candidatemanagement_huynhnhan\\pages\\loginpage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F1631B-FB8A-40EC-8749-41E0EA7B89D5}|CandidateManagement.DAOs\\CandidateManagement.DAOs.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_huynhnhan\\candidatemanagement.daos\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F1631B-FB8A-40EC-8749-41E0EA7B89D5}|CandidateManagement.DAOs\\CandidateManagement.DAOs.csproj|solutionrelative:candidatemanagement.daos\\candidateprofiledao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84F1631B-FB8A-40EC-8749-41E0EA7B89D5}|CandidateManagement.DAOs\\CandidateManagement.DAOs.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_huynhnhan\\candidatemanagement.daos\\jobpostingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84F1631B-FB8A-40EC-8749-41E0EA7B89D5}|CandidateManagement.DAOs\\CandidateManagement.DAOs.csproj|solutionrelative:candidatemanagement.daos\\jobpostingdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F12624B2-A39D-4E03-A3C1-A9F127573FBB}|CandidateManagement_BussinessObject\\CandidateManagement_BussinessObject.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_huynhnhan\\candidatemanagement_bussinessobject\\entities\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F12624B2-A39D-4E03-A3C1-A9F127573FBB}|CandidateManagement_BussinessObject\\CandidateManagement_BussinessObject.csproj|solutionrelative:candidatemanagement_bussinessobject\\entities\\candidateprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_huynhnhan\\candidatemanagement_huynhnhan\\pages\\loginpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|solutionrelative:candidatemanagement_huynhnhan\\pages\\loginpage\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21E7BD90-4C1B-4D3A-919E-D5AC42D92C8B}|CandidateManagement.Repository\\CandidateManagement.Repository.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_huynhnhan\\candidatemanagement.repository\\candidateprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21E7BD90-4C1B-4D3A-919E-D5AC42D92C8B}|CandidateManagement.Repository\\CandidateManagement.Repository.csproj|solutionrelative:candidatemanagement.repository\\candidateprofilerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_huynhnhan\\candidatemanagement_huynhnhan\\pages\\candidatepage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|solutionrelative:candidatemanagement_huynhnhan\\pages\\candidatepage\\delete.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_huynhnhan\\candidatemanagement_huynhnhan\\pages\\candidatepage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|solutionrelative:candidatemanagement_huynhnhan\\pages\\candidatepage\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_huynhnhan\\candidatemanagement_huynhnhan\\pages\\candidatepage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|solutionrelative:candidatemanagement_huynhnhan\\pages\\candidatepage\\details.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_huynhnhan\\candidatemanagement_huynhnhan\\pages\\candidatepage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|solutionrelative:candidatemanagement_huynhnhan\\pages\\candidatepage\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_huynhnhan\\candidatemanagement_huynhnhan\\pages\\candidatepage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|solutionrelative:candidatemanagement_huynhnhan\\pages\\candidatepage\\edit.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_huynhnhan\\candidatemanagement_huynhnhan\\pages\\candidatepage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|solutionrelative:candidatemanagement_huynhnhan\\pages\\candidatepage\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_huynhnhan\\candidatemanagement_huynhnhan\\pages\\candidatepage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|solutionrelative:candidatemanagement_huynhnhan\\pages\\candidatepage\\create.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|d:\\fpt_learning\\prn221\\prn221-advanced-wpf\\prn221pe_fa22_trialtest_huynhnhan\\candidatemanagement_huynhnhan\\pages\\candidatepage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{CA88CF1C-9B5C-483F-A784-B5376F0806A9}|CandidateManagement_HuynhNhan\\CandidateManagement_HuynhNhan.csproj|solutionrelative:candidatemanagement_huynhnhan\\pages\\candidatepage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 20,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:2:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:5:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:7:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:11:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CandidateProfile.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_BussinessObject\\Entities\\CandidateProfile.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_BussinessObject\\Entities\\CandidateProfile.cs",
+              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_BussinessObject\\Entities\\CandidateProfile.cs",
+              "RelativeToolTip": "CandidateManagement_BussinessObject\\Entities\\CandidateProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxEAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:50:47.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "JobPostingDAO.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement.DAOs\\JobPostingDAO.cs",
+              "RelativeDocumentMoniker": "CandidateManagement.DAOs\\JobPostingDAO.cs",
+              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement.DAOs\\JobPostingDAO.cs",
+              "RelativeToolTip": "CandidateManagement.DAOs\\JobPostingDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvyIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:43:00.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\LoginPage\\Index.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagement_HuynhNhan\\Pages\\LoginPage\\Index.cshtml",
+              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\LoginPage\\Index.cshtml",
+              "RelativeToolTip": "CandidateManagement_HuynhNhan\\Pages\\LoginPage\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T09:38:11.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\LoginPage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_HuynhNhan\\Pages\\LoginPage\\Index.cshtml.cs",
+              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\LoginPage\\Index.cshtml.cs",
+              "RelativeToolTip": "CandidateManagement_HuynhNhan\\Pages\\LoginPage\\Index.cshtml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:37:53.154Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CandidateProfileDAO.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement.DAOs\\CandidateProfileDAO.cs",
+              "RelativeDocumentMoniker": "CandidateManagement.DAOs\\CandidateProfileDAO.cs",
+              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement.DAOs\\CandidateProfileDAO.cs",
+              "RelativeToolTip": "CandidateManagement.DAOs\\CandidateProfileDAO.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCAAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:35:32.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CandidateProfileRepository.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement.Repository\\CandidateProfileRepository.cs",
+              "RelativeDocumentMoniker": "CandidateManagement.Repository\\CandidateProfileRepository.cs",
+              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement.Repository\\CandidateProfileRepository.cs",
+              "RelativeToolTip": "CandidateManagement.Repository\\CandidateProfileRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvx4AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:35:08.493Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Index.cshtml.cs",
+              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Index.cshtml.cs",
+              "RelativeToolTip": "CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Index.cshtml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAADMAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:33:01.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Index.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Index.cshtml",
+              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Index.cshtml",
+              "RelativeToolTip": "CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Index.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T09:33:00.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Delete.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Delete.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Delete.cshtml.cs",
+              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Delete.cshtml.cs",
+              "RelativeToolTip": "CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Delete.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:33:00.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Delete.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Delete.cshtml",
+              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Delete.cshtml",
+              "RelativeToolTip": "CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T09:33:00.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Details.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Details.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Details.cshtml.cs",
+              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Details.cshtml.cs",
+              "RelativeToolTip": "CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Details.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:33:00.857Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Details.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Details.cshtml",
+              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Details.cshtml",
+              "RelativeToolTip": "CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T09:33:00.821Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Edit.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Edit.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Edit.cshtml.cs",
+              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Edit.cshtml.cs",
+              "RelativeToolTip": "CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Edit.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:33:00.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Edit.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Edit.cshtml",
+              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Edit.cshtml",
+              "RelativeToolTip": "CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T09:33:00.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml.cs",
+              "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Create.cshtml.cs",
+              "RelativeDocumentMoniker": "CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Create.cshtml.cs",
+              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Create.cshtml.cs",
+              "RelativeToolTip": "CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Create.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-06T09:33:00.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Create.cshtml",
+              "RelativeDocumentMoniker": "CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Create.cshtml",
+              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_HuynhNhan\\CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Create.cshtml",
+              "RelativeToolTip": "CandidateManagement_HuynhNhan\\Pages\\CandidatePage\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-06T09:33:00.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1850,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:15:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

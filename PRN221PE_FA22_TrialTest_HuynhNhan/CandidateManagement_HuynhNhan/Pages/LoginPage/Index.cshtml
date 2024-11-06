@@ -1,0 +1,33 @@
+﻿@page
+@model CandidateManagement_HuynhNhan.Pages.LoginPage.IndexModel
+@{
+}
+<div class="header">
+    <div class="logo">CandidateManagement_HuynhThienNhan</div>
+    <nav>
+        <a href="#">Home</a>
+        <a href="#">Privacy</a>
+    </nav>
+</div>
+
+<div class="login-box">
+    <h1 class="display-4">Login</h1>
+    @if (TempData["Message"] != null)
+    {
+        <div>@TempData["Message"]</div>
+    }
+    <form method="post" asp-page-handler="OnPost">
+        <div class="input-group">
+            <label for="email">Email</label>
+
+            <input type="email" id="email" name="Email" placeholder="Enter your email" required>
+        </div>
+        <div class="input-group">
+            <label for="password">Password</label>
+            <input type="password" id="Password" name="Password" placeholder="Enter your password" required>
+        </div>
+        <button type="submit" class="login-btn">Login</button>
+    </form>
+
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+</div>

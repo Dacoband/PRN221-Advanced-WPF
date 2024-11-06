@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "vqCVy01iz34=",
+  "dgSpecHash": "JdFdBDe7S2w=",
   "success": true,
   "projectFilePath": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221PE_FA22_TrialTest_PhanVoNgocPhu\\CandidateUtils\\CandidateUtils.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.35\\microsoft.windowsdesktop.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.35\\microsoft.netcore.app.ref.6.0.35.nupkg.sha512",
+    "C:\\Users\\bolic\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.35\\microsoft.aspnetcore.app.ref.6.0.35.nupkg.sha512"
+  ],
   "logs": []
 }

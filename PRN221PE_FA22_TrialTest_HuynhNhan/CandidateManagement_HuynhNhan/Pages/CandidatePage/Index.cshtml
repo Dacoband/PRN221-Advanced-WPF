@@ -1,0 +1,103 @@
+﻿@page
+@model CandidateManagement_HuynhNhan.Pages.CandidatePage.IndexModel
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Candidate Profile Page</h1>
+
+<form method="get">
+    <div class="form-group">
+        <label for="searchFullName">Search by FullName:</label>
+        <input type="text" id="searchFullName" name="SearchFullName" value="@Model.SearchFullName" class="form-control" />
+    </div>
+    <div class="form-group">
+        <label for="searchBirthday">Search by Birthday:</label>
+        <input type="text" id="searchBirthday" name="SearchBirthday" value="@Model.SearchBirthday" class="form-control" />
+    </div>
+    <button type="submit" class="btn btn-primary">Search</button>
+</form>
+
+<p>
+    <a asp-page="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.CandidateProfile[0].Fullname)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CandidateProfile[0].Birthday)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CandidateProfile[0].ProfileShortDescription)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CandidateProfile[0].ProfileUrl)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.CandidateProfile[0].PostingId)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model.CandidateProfile) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Fullname)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Birthday)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProfileShortDescription)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ProfileUrl)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Posting.PostingId)
+            </td>
+            <td>
+                <a asp-page="./Edit" asp-route-id="@item.CandidateId">Edit</a> |
+                <a asp-page="./Details" asp-route-id="@item.CandidateId">Details</a> |
+                <a asp-page="./Delete" asp-route-id="@item.CandidateId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>
+
+<div>
+    <nav aria-label="Page navigation">
+        <ul class="pagination">
+            @if (Model.PageNumber > 1)
+            {
+                <li class="page-item">
+                    <a class="page-link" asp-route-PageNumber="@(Model.PageNumber - 1)" aria-label="Previous">
+                        <span aria-hidden="true">&laquo;</span>
+                    </a>
+                </li>
+            }
+
+            @for (var i = 1; i <= Model.TotalPages; i++)
+            {
+                <li class="page-item @(Model.PageNumber == i ? "active" : "")">
+                    <a class="page-link" asp-route-PageNumber="@i">@i</a>
+                </li>
+            }
+
+            @if (Model.PageNumber < Model.TotalPages)
+            {
+                <li class="page-item">
+                    <a class="page-link" asp-route-PageNumber="@(Model.PageNumber + 1)" aria-label="Next">
+                        <span aria-hidden="true">&raquo;</span>
+                    </a>
+                </li>
+            }
+        </ul>
+    </nav>
+</div>

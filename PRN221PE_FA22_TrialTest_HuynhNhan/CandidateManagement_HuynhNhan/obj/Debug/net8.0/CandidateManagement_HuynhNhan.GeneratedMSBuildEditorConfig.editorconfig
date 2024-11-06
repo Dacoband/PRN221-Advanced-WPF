@@ -1,0 +1,79 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = CandidateManagement_HuynhNhan
+build_property.RootNamespace = CandidateManagement_HuynhNhan
+build_property.ProjectDir = D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221PE_FA22_TrialTest_HuynhNhan\CandidateManagement_HuynhNhan\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = D:\FPT_Learning\PRN221\PRN221-Advanced-WPF\PRN221PE_FA22_TrialTest_HuynhNhan\CandidateManagement_HuynhNhan
+build_property._RazorSourceGeneratorDebug = 
+
+[D:/FPT_Learning/PRN221/PRN221-Advanced-WPF/PRN221PE_FA22_TrialTest_HuynhNhan/CandidateManagement_HuynhNhan/Pages/CandidatePage/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlUGFnZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_Learning/PRN221/PRN221-Advanced-WPF/PRN221PE_FA22_TrialTest_HuynhNhan/CandidateManagement_HuynhNhan/Pages/CandidatePage/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlUGFnZVxEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_Learning/PRN221/PRN221-Advanced-WPF/PRN221PE_FA22_TrialTest_HuynhNhan/CandidateManagement_HuynhNhan/Pages/CandidatePage/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlUGFnZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_Learning/PRN221/PRN221-Advanced-WPF/PRN221PE_FA22_TrialTest_HuynhNhan/CandidateManagement_HuynhNhan/Pages/CandidatePage/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlUGFnZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_Learning/PRN221/PRN221-Advanced-WPF/PRN221PE_FA22_TrialTest_HuynhNhan/CandidateManagement_HuynhNhan/Pages/CandidatePage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcQ2FuZGlkYXRlUGFnZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_Learning/PRN221/PRN221-Advanced-WPF/PRN221PE_FA22_TrialTest_HuynhNhan/CandidateManagement_HuynhNhan/Pages/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_Learning/PRN221/PRN221-Advanced-WPF/PRN221PE_FA22_TrialTest_HuynhNhan/CandidateManagement_HuynhNhan/Pages/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_Learning/PRN221/PRN221-Advanced-WPF/PRN221PE_FA22_TrialTest_HuynhNhan/CandidateManagement_HuynhNhan/Pages/LoginPage/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcTG9naW5QYWdlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_Learning/PRN221/PRN221-Advanced-WPF/PRN221PE_FA22_TrialTest_HuynhNhan/CandidateManagement_HuynhNhan/Pages/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_Learning/PRN221/PRN221-Advanced-WPF/PRN221PE_FA22_TrialTest_HuynhNhan/CandidateManagement_HuynhNhan/Pages/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_Learning/PRN221/PRN221-Advanced-WPF/PRN221PE_FA22_TrialTest_HuynhNhan/CandidateManagement_HuynhNhan/Pages/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_Learning/PRN221/PRN221-Advanced-WPF/PRN221PE_FA22_TrialTest_HuynhNhan/CandidateManagement_HuynhNhan/Pages/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/FPT_Learning/PRN221/PRN221-Advanced-WPF/PRN221PE_FA22_TrialTest_HuynhNhan/CandidateManagement_HuynhNhan/Pages/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-sr10hy8fbw
