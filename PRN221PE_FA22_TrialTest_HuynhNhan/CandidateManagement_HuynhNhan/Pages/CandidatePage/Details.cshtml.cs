@@ -7,16 +7,17 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using CandidateManagement_BussinessObject;
 using CandidateManagement_BussinessObject.Entities;
+using CandidateManagement.Repository.Interface;
 
 namespace CandidateManagement_HuynhNhan.Pages.CandidatePage
 {
     public class DetailsModel : PageModel
     {
-        private readonly CandidateManagement_BussinessObject.CandidateManagementContext _context;
+        private readonly ICandidateProfileRepository _candidateProfileRepository;
 
-        public DetailsModel(CandidateManagement_BussinessObject.CandidateManagementContext context)
+        public DetailsModel(ICandidateProfileRepository candidateProfileRepository)
         {
-            _context = context;
+            _candidateProfileRepository = candidateProfileRepository;
         }
 
         public CandidateProfile CandidateProfile { get; set; } = default!;
@@ -28,7 +29,7 @@ namespace CandidateManagement_HuynhNhan.Pages.CandidatePage
                 return NotFound();
             }
 
-            var candidateprofile = await _context.CandidateProfiles.FirstOrDefaultAsync(m => m.CandidateId == id);
+            var candidateprofile = await _candidateProfileRepository.GetCandidateProfileById(id);
             if (candidateprofile == null)
             {
                 return NotFound();

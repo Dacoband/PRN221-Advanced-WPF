@@ -32,7 +32,7 @@ namespace CandidateManagement.DAOs
         {
             return await _context.CandidateProfiles.Include(x => x.Posting).ToListAsync();
         }
-        public async Task<CandidateProfile> GetCandidateProfileById(int id)
+        public async Task<CandidateProfile> GetCandidateProfileById(string id)
         {
             return await _context.CandidateProfiles.FindAsync(id);
         }
@@ -46,7 +46,7 @@ namespace CandidateManagement.DAOs
             _context.CandidateProfiles.Update(candidateProfile);
             await _context.SaveChangesAsync();
         }
-        public async Task DeleteCandidateProfile(int id)
+        public async Task DeleteCandidateProfile(string id)
         {
             var candidateProfile = await _context.CandidateProfiles.FindAsync(id);
             _context.CandidateProfiles.Remove(candidateProfile);

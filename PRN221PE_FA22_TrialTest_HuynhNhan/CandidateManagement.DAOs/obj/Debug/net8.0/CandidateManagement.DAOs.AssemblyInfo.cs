@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CandidateManagement.DAOs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2d091db8434e9d4444c3167c6cae3ad30fbb8de")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7975c3e74b7021840ac274a779055fb9b7290e35")]
 [assembly: System.Reflection.AssemblyProductAttribute("CandidateManagement.DAOs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CandidateManagement.DAOs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

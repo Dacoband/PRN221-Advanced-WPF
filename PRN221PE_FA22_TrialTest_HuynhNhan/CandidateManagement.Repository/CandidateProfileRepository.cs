@@ -16,12 +16,12 @@ namespace CandidateManagement.Repository
              await CandidateProfileDAO.Instance.AddCandidateProfile(candidateProfile);
         }
 
-        public async Task DeleteCandidateProfile(int id)
+        public async Task DeleteCandidateProfile(string id)
         {
             await CandidateProfileDAO.Instance.DeleteCandidateProfile(id);
         }
 
-        public async Task<CandidateProfile> GetCandidateProfileById(int id)
+        public async Task<CandidateProfile> GetCandidateProfileById(string id)
         {
             return await CandidateProfileDAO.Instance.GetCandidateProfileById(id);
         }

@@ -7,16 +7,17 @@ using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.EntityFrameworkCore;
 using CandidateManagement_BussinessObject;
 using CandidateManagement_BussinessObject.Entities;
+using CandidateManagement.Repository.Interface;
 
 namespace CandidateManagement_HuynhNhan.Pages.CandidatePage
 {
     public class DeleteModel : PageModel
     {
-        private readonly CandidateManagement_BussinessObject.CandidateManagementContext _context;
+        private readonly ICandidateProfileRepository _candidateProfileRepository;
 
-        public DeleteModel(CandidateManagement_BussinessObject.CandidateManagementContext context)
+        public DeleteModel(ICandidateProfileRepository candidateProfileRepository)
         {
-            _context = context;
+            _candidateProfileRepository = candidateProfileRepository;
         }
 
         [BindProperty]
@@ -29,7 +30,7 @@ namespace CandidateManagement_HuynhNhan.Pages.CandidatePage
                 return NotFound();
             }
 
-            var candidateprofile = await _context.CandidateProfiles.FirstOrDefaultAsync(m => m.CandidateId == id);
+            var candidateprofile = await _candidateProfileRepository.GetCandidateProfileById(id);
 
             if (candidateprofile == null)
             {
@@ -49,13 +50,9 @@ namespace CandidateManagement_HuynhNhan.Pages.CandidatePage
                 return NotFound();
             }
 
-            var candidateprofile = await _context.CandidateProfiles.FindAsync(id);
-            if (candidateprofile != null)
-            {
-                CandidateProfile = candidateprofile;
-                _context.CandidateProfiles.Remove(CandidateProfile);
-                await _context.SaveChangesAsync();
-            }
+          _candidateProfileRepository.DeleteCandidateProfile(id);
+            TempData["Message"] = "Delete successfully";
+
 
             return RedirectToPage("./Index");
         }

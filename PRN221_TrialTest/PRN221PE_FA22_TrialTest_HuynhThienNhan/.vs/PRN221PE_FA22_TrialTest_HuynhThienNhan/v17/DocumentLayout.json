@@ -82,7 +82,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 11,
+          "SelectedChildIndex": 13,
           "Children": [
             {
               "$type": "Bookmark",
@@ -118,7 +118,7 @@
             },
             {
               "$type": "Bookmark",
-              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             },
             {
               "$type": "Bookmark",
@@ -129,6 +129,14 @@
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:6:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "MainWindow.xaml.cs",
@@ -136,7 +144,7 @@
               "RelativeDocumentMoniker": "CandidateManagement_HuynhThienNhan\\MainWindow.xaml.cs",
               "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\CandidateManagement_HuynhThienNhan\\MainWindow.xaml.cs",
               "RelativeToolTip": "CandidateManagement_HuynhThienNhan\\MainWindow.xaml.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAqwDAAAACSAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAACSAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-14T08:28:11.822Z",
               "EditorCaption": ""
@@ -207,11 +215,10 @@
               "Title": "CandidateProfileMange.xaml",
               "DocumentMoniker": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\CandidateManagement_HuynhThienNhan\\CandidateProfileMange.xaml",
               "RelativeDocumentMoniker": "CandidateManagement_HuynhThienNhan\\CandidateProfileMange.xaml",
-              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\CandidateManagement_HuynhThienNhan\\CandidateProfileMange.xaml*",
-              "RelativeToolTip": "CandidateManagement_HuynhThienNhan\\CandidateProfileMange.xaml*",
+              "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\CandidateManagement_HuynhThienNhan\\CandidateProfileMange.xaml",
+              "RelativeToolTip": "CandidateManagement_HuynhThienNhan\\CandidateProfileMange.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-21T09:52:03.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T09:52:03.193Z"
             },
             {
               "$type": "Document",
@@ -245,8 +252,7 @@
               "ToolTip": "D:\\FPT_Learning\\PRN221\\PRN221-Advanced-WPF\\PRN221_TrialTest\\PRN221PE_FA22_TrialTest_HuynhThienNhan\\CandidateManagement_HuynhThienNhan\\MainWindow.xaml",
               "RelativeToolTip": "CandidateManagement_HuynhThienNhan\\MainWindow.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-21T09:49:16.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-21T09:49:16.406Z"
             },
             {
               "$type": "Document",

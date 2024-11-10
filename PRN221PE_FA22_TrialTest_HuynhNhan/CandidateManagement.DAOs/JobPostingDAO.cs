@@ -32,6 +32,32 @@ namespace CandidateManagement.DAOs
         {
             return await _context.JobPostings.ToListAsync();
         }
-
+        public async Task<JobPosting> GetJobPostingById(int id)
+        {
+            return await _context.JobPostings.FindAsync(id);
+        }
+        public async Task<JobPosting> AddJobPosting(JobPosting jobPosting)
+        {
+            _context.JobPostings.Add(jobPosting);
+            await _context.SaveChangesAsync();
+            return jobPosting;
+        }
+        public async Task<JobPosting> UpdateJobPosting(JobPosting jobPosting)
+        {
+            _context.Entry(jobPosting).State = EntityState.Modified;
+            await _context.SaveChangesAsync();
+            return jobPosting;
+        }
+        public async Task<JobPosting> DeleteJobPosting(int id)
+        {
+            var jobPosting = await _context.JobPostings.FindAsync(id);
+            if (jobPosting == null)
+            {
+                return null;
+            }
+            _context.JobPostings.Remove(jobPosting);
+            await _context.SaveChangesAsync();
+            return jobPosting;
+        }
     }
 }

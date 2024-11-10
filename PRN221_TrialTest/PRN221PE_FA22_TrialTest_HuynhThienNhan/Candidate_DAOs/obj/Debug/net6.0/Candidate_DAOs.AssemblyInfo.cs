@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Candidate_DAOs")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+717863e54d2b58caa260d73623861c908b2a130d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7975c3e74b7021840ac274a779055fb9b7290e35")]
 [assembly: System.Reflection.AssemblyProductAttribute("Candidate_DAOs")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Candidate_DAOs")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
